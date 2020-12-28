@@ -1,0 +1,7 @@
+* Objects are created from classes
+* A class serves as a blueprint from which you can create one or more objects
+
+* Encapsulation
+        - The idea of encapsulating code inside classes when writing a typical class
+* Constructor
+        - The constructors are used to initialize objects to set them up
